@@ -34,8 +34,7 @@ a {
   justify-content: center;
   gap: 24px;
   width: 100%;
-  max-width: 1440px;
-  padding: 24px;
+  max-width: 1128px;
 }
 
 .gallery-item {
